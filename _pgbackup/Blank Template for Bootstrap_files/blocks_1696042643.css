@@ -1,0 +1,172 @@
+.proportions-box-square, .pg-node-id-1, .pg-main-cs-174 {
+    position: relative;
+    padding: 100% 0 0 !important;
+    height: 0;
+}
+
+.proportions-box-content, .pg-node-id-2, .pg-main-cs-174 {
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+
+.background-cover, .pg-node-id-3, .pg-main-cs-174 {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.background-left-top, .pg-node-id-4, .pg-main-cs-174 {
+    background-position: left top;
+}
+
+.background-left-center, .pg-node-id-5, .pg-main-cs-174 {
+    background-position: left center;
+}
+
+.background-left-bottom, .pg-node-id-6, .pg-main-cs-174 {
+    background-position: left bottom;
+}
+
+.background-right-top, .pg-node-id-7, .pg-main-cs-174 {
+    background-position: right top;
+}
+
+.background-right-center, .pg-node-id-8, .pg-main-cs-174 {
+    background-position: right center;
+}
+
+.background-right-bottom, .pg-node-id-9, .pg-main-cs-174 {
+    background-position: right bottom;
+}
+
+.background-center-top, .pg-node-id-10, .pg-main-cs-174 {
+    background-position: center top;
+}
+
+.background-center-center, .pg-node-id-11, .pg-main-cs-174 {
+    background-position: center center;
+}
+
+.background-center-bottom, .pg-node-id-12, .pg-main-cs-174 {
+    background-position: center bottom;
+}
+
+.border-width-1, .pg-node-id-13, .pg-main-cs-174 {
+    border-width: 1px !important;
+}
+
+.border-width-2, .pg-node-id-14, .pg-main-cs-174 {
+    border-width: 2px !important;
+}
+
+.border-width-3, .pg-node-id-15, .pg-main-cs-174 {
+    border-width: 3px !important;
+}
+
+.border-width-4, .pg-node-id-16, .pg-main-cs-174 {
+    border-width: 4px !important;
+}
+
+.border-width-6, .pg-node-id-17, .pg-main-cs-174 {
+    border-width: 6px !important;
+}
+
+.border-width-8, .pg-node-id-18, .pg-main-cs-174 {
+    border-width: 8px !important;
+}
+
+.border-width-12, .pg-node-id-19, .pg-main-cs-174 {
+    border-width: 12px !important;
+}
+
+.border-width-16, .pg-node-id-20, .pg-main-cs-174 {
+    border-width: 16px !important;
+}
+
+.border-width-24, .pg-node-id-21, .pg-main-cs-174 {
+    border-width: 24px !important;
+}
+
+.image-fit, .pg-node-id-22, .pg-main-cs-174 {
+    object-fit: contain;
+    object-position: center center;
+}
+
+.image-fit-left-top, .pg-node-id-23, .pg-main-cs-174 {
+    object-position: left top;
+}
+
+.image-fit-left-center, .pg-node-id-24, .pg-main-cs-174 {
+    object-position: left center;
+}
+
+.image-fit-left-bottom, .pg-node-id-25, .pg-main-cs-174 {
+    object-position: left bottom;
+}
+
+.image-fit-right-top, .pg-node-id-26, .pg-main-cs-174 {
+    object-position: right top;
+}
+
+.image-fit-right-center, .pg-node-id-27, .pg-main-cs-174 {
+    object-position: right center;
+}
+
+.image-fit-right-bottom, .pg-node-id-28, .pg-main-cs-174 {
+    object-position: right bottom;
+}
+
+.image-fit-center-top, .pg-node-id-29, .pg-main-cs-174 {
+    object-position: center top;
+}
+
+.image-fit-center-center, .pg-node-id-30, .pg-main-cs-174 {
+    object-position: center center;
+}
+
+.image-fit-center-bottom, .pg-node-id-31, .pg-main-cs-174 {
+    object-position: center bottom;
+}
+
+.transition, .pg-node-id-32, .pg-main-cs-174 {
+    transition: all 0.25s ease-in;
+}
+
+.transition-slow, .pg-node-id-33, .pg-main-cs-174 {
+    transition: all 0.5s ease-in;
+}
+
+.transition-very-slow, .pg-node-id-34, .pg-main-cs-174 {
+    transition: all 1s ease-in;
+}
+
+.line-height-1, .pg-node-id-35, .pg-main-cs-174 {
+    line-height: 1 !important;
+}
+
+.opacity-100, .pg-node-id-36, .pg-main-cs-174 {
+    opacity: 1 !important;
+}
+
+.opacity-85, .pg-node-id-37, .pg-main-cs-174 {
+    opacity: 0.85 !important;
+}
+
+.opacity-75, .pg-node-id-38, .pg-main-cs-174 {
+    opacity: 0.75 !important;
+}
+
+.opacity-50, .pg-node-id-39, .pg-main-cs-174 {
+    opacity: 0.50 !important;
+}
+
+.opacity-25, .pg-node-id-40, .pg-main-cs-174 {
+    opacity: 0.25 !important;
+}
+
+.opacity-0, .pg-node-id-41, .pg-main-cs-174 {
+    opacity: 0 !important;
+}
