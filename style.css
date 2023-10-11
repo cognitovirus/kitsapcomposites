@@ -60,7 +60,9 @@ button.card-button {
     border-width: 0;
     border-style: solid;
     opacity: 0.8;
+    padding-top: 3px;
     padding-bottom: 3px;
+    margin-top: 18px;
 }
 
 button.card-button:hover {
