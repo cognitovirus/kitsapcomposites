@@ -76,3 +76,9 @@ button.card-button:hover {
 .aboutimg {
     border-radius: 32px;
 }
+
+h4.fw-bold.h5 {
+    margin-bottom: 21px;
+    padding: 6px 10px;
+    font-size: 17px;
+}
