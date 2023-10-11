@@ -57,20 +57,4 @@ h4.fw-bold,
 .card-button {
     border-radius: 52px;
     color: #a60000;
-}button.card-button {
-    border-radius: 43px;
-    color: #000000;
-    font-weight: 600;
-    border-width: 0;
-    border-style: solid;
-    opacity: 0.8;
-    padding-bottom: 3px;
-}button.card-button:hover {
-    transition: all 0.2s;
-    border-radius: 43px;
-    color: #ffffff;
-    background-color: #93c8ff;
-    opacity: 1;
-}.aboutimg {
-    border-radius: 32px;
 }
