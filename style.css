@@ -82,3 +82,16 @@ h4.fw-bold.h5 {
     padding: 6px 10px;
     font-size: 17px;
 }
+
+a.link-dark.nav-link {
+    padding-left: 10px;
+}
+
+.bg-primary {
+    --bs-bg-opacity: 1;
+    background-color: #f26739;
+}
+
+.bg-secondary {
+    background-color: #60abff;
+}
